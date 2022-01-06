@@ -1,0 +1,89 @@
+body{
+    font-family: font-family: 'Be Vietnam Pro', sans-serif;;
+    margin: 0;
+}
+h1{
+    font-size: 45px;
+}
+.head-style{
+    color: brown;
+}
+#border-style{
+    border-left: 7px solid purple;
+   
+}
+.container-style{
+    display: flex;
+    margin-bottom: 120px;
+}
+.div-style{
+    width: 40%;
+    padding-left: 10%;
+    
+}
+.div-style img{
+    width: 65%;
+    }
+.anchor-style{
+    color: white;
+    text-decoration: none;
+    background-color: crimson;
+    padding: .7em 1.5em;
+    border-radius: 5px;
+
+}
+.box-style{
+    display: flex;
+    margin-bottom: 120px;
+
+}
+.image{
+    width: 50%;
+    height: 40%;
+    
+}
+.mission-style{
+    box-shadow: 10px 10px 30px rgb(221, 139, 31);
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+    
+}
+.vision-style{
+    box-shadow:10px 10px 30px #ffa500;
+    padding: 20px;
+    margin:10px;
+    border-radius: 15px;
+}
+.goal-style{
+    box-shadow:10px 10px 30px coral;
+    padding: 20px;
+    margin:10px;
+    border-radius: 15px;
+    
+}
+
+.style-year{
+    color: darkgoldenrod;
+    
+}
+#text-style{
+    text-align: center;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+span{
+    color: tomato;
+}
+#environment-style{
+    text-align: center;
+}
+#image-design{
+    height: 300px;
+    width: 400px;
+    border-radius: 200px;
+}
+    
