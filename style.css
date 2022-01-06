@@ -10,6 +10,7 @@ h1{
 }
 #border-style{
     border-left: 7px solid purple;
+    padding-left: 3px;
    
 }
 .container-style{
@@ -47,6 +48,7 @@ h1{
     padding: 20px;
     margin: 10px;
     border-radius: 15px;
+    background-color: cadetblue;
     
 }
 .vision-style{
@@ -54,12 +56,14 @@ h1{
     padding: 20px;
     margin:10px;
     border-radius: 15px;
+    background-color: cornflowerblue;
 }
 .goal-style{
     box-shadow:10px 10px 30px coral;
     padding: 20px;
     margin:10px;
     border-radius: 15px;
+    background-color: darkgrey;
     
 }
 
@@ -80,10 +84,11 @@ span{
 }
 #environment-style{
     text-align: center;
+    margin-bottom: 5%;
 }
 #image-design{
-    height: 300px;
-    width: 400px;
-    border-radius: 200px;
+    height: 580px;
+    width: 620px;
+    border-radius: 30px;
 }
     
